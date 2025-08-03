@@ -34,9 +34,8 @@ This creates an auditory landscape of physical motion, revealing terrain irregul
 
 Install them with:
 
-```bash
-pip install pygame numpy simpleaudio pandas
-```bash
+#pip install pygame numpy simpleaudio pandas
+
 
 ▶️ How to Run
 Clone this repository:
