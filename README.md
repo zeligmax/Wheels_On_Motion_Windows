@@ -5,7 +5,7 @@ The goal is to sonify the often invisible physical difficulties faced in everyda
 
 This Windows-based Python application uses geolocation and sensor data collected via a custom Android app (APK) to generate sound in real time or from recorded routes.
 
-> **APK Source**: [Download APK here](insert-link-here)
+> **APK Source**: [Download APK here](https://github.com/zeligmax/Wheels_On_Motion_Android/blob/main/app-debug.apk)
 
 ---
 
