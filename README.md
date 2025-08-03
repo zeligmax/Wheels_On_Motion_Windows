@@ -36,6 +36,7 @@ Install them with:
 
 ```bash
 pip install pygame numpy simpleaudio pandas
+```bash
 
 ▶️ How to Run
 Clone this repository:
