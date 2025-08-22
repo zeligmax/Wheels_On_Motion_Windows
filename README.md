@@ -1,6 +1,6 @@
 # Wheels On Motion (Windows App) 🎶🖥️
 
-**Wheels On Motion – Windows Edition** is the sound-generation companion app for the artistic project *Wheels On Motion*.  
+**Wheels On Motion – Windows Edition** is the sound-generation companion app for the artistic project [Wheels On Motion (Android)](https://github.com/zeligmax/Wheels_On_Motion_Android).  
 
 This desktop application transforms wheelchair motion data (captured via the companion Android APK) into **immersive soundscapes**, using audio synthesis and visualization techniques.
 
@@ -21,7 +21,7 @@ This app provides both **analytical** and **artistic** tools to reinterpret mobi
 ---
 
 ## 🖥️ Installation
-1. Download or clone this repository.  
+1. Download or clone this repository. You can download it from the [Releases section](https://github.com/zeligmax/Wheels_On_Motion_Windows/releases/tag/v2.0.0)
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
