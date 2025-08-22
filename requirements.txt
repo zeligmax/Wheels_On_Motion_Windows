@@ -1,0 +1,17 @@
+# Interfaz gráfica
+tk  # Tkinter (en muchos entornos viene incluido con Python)
+Pillow>=9.0.0  # Para manejar imágenes (PNG, JPEG, etc.)
+
+# Procesamiento y manejo de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Gráficos
+matplotlib>=3.7.0
+
+# Audio
+sounddevice>=0.4.6
+scipy>=1.11.0PIL
+
+
+pyinstaller>=5.0.0  # Para empaquetar la aplicación como ejecutable
